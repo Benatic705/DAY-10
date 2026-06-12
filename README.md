@@ -17,11 +17,11 @@ LeetCode Problems Solved
 
 CodeChef Problems Solved
 
-1. Problem 1
-2. Problem 2
-3. Problem 3
-4. Problem 4
-5. Problem 5
+1. Add Two Number
+2. Even or Odd
+3. Largest Number
+4. Factorial
+5. Sum of Digits
 
 Deliverable
 
